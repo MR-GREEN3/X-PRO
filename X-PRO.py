@@ -3,7 +3,7 @@ import os, sys
 
 try:
 
-    __import__("green").v1()
+    __import__("GREEN").tamim()
 
 except Exception as e:
 
